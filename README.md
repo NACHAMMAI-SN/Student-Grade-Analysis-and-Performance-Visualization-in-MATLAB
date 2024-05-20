@@ -1,2 +1,2 @@
-# Student-Grade-Analysis-and-Performance-Visualization-in-MATLAB
-Efficiently analyze student grades and visualize class performance using MATLAB. This project read
+Student Grade Analysis and Performance Visualization in MATLAB:
+Efficiently analyze student grades and visualize class performance using MATLAB. This project reads grade data from Excel, calculates student averages while handling missing grades, and categorizes students based on performance. Visualize class performance distribution with pie charts, aiding educators in making informed decisions and providing targeted support for students' academic success. Ideal for educational institutions seeking to enhance teaching quality and student outcomes.
